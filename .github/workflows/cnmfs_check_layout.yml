@@ -1,4 +1,4 @@
-name: Check layouts
+name: Cnmfs check layouts
 
 on:
   workflow_dispatch:
